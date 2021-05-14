@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm *great* at **problem-solving**, I'm a *very* quick learner, and I work in **Python**.
