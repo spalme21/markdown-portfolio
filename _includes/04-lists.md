@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## My favorite books:
+- Slaughterhouse-5
+- Catch-22
+- East of Eden
